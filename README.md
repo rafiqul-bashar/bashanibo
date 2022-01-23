@@ -1,8 +1,9 @@
-# Getting Started with Create React App
-
-This project was Made Using React ,Firebase
+#This project was Made Using React ,Firebase
 
 ## Live Link
 
 -- https://maijddee-gari.web.app/
-# bashanibo
+
+# I used TailWind CSS for Design
+
+## Also Used React Hook Form, React SpinKit

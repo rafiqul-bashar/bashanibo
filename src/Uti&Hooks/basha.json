@@ -1,0 +1,222 @@
+[
+  {
+    "category": "For Sale",
+    "type": "Single Family",
+    "price": 375000,
+    "persqrft": 259,
+    "garage": "2 Cars",
+    "pool": "No Pool",
+    "built": 1959,
+    "desc": "3 Bed, 2 Bath , 1,170 sqft",
+    "img": "https://ap.rdcpix.com/9ea5a4c660229a8f8cdeaff735548687l-m549748529od-w480_h360_x2.webp",
+
+    "address": "4816 Lynbrook Dr, Jacksonville, FL 32207"
+  },
+  {
+    "category": "For Sale",
+    "type": "Single Family",
+    "price": 249900,
+    "persqrft": 214,
+    "garage": "1 Cars",
+    "pool": "No Pool",
+    "built": 1964,
+    "desc": "3 Bed, 2 Bath , 1,170 sqft",
+    "img": "https://ap.rdcpix.com/001f71e8e8e832a5da2a7738e5d08eedl-m1465593933od-w480_h360_x2.webp",
+    "address": "2814 Sam Rd, Jacksonville, FL 32216"
+  },
+  {
+    "category": "For Sale",
+    "type": "Single Family",
+    "price": 420469,
+    "persqrft": 259,
+    "garage": "2 Cars",
+    "pool": "No Pool",
+    "built": 1959,
+    "desc": "5 Bed, 3 Bath , 2,405 sqft",
+    "img": "https://photos.zillowstatic.com/fp/e40c00fe0b0c728fc051dc6f8195b2a1-cc_ft_768.webp",
+
+    "address": "615 Ballyshannon Dr, Dacula, GA 30019"
+  },
+  {
+    "category": "For Sale",
+
+    "type": "Condo",
+    "price": 115500,
+    "persqrft": 136,
+    "garage": "No Garage",
+    "pool": "No Pool",
+    "built": 1959,
+    "desc": "1 Bed, 1 Bath , 845 sqft",
+    "img": "https://ap.rdcpix.com/d21d44d71fd8f2d221461a0e8e31d568l-m1407095677od-w1024_h768_x2.webp",
+
+    "address": "6646 LA Mirada Dr E Unit 6, Jacksonville, FL 32217"
+  },
+  {
+    "category": "For Sale",
+
+    "type": "Single Family",
+    "price": 423300,
+    "persqrft": 188,
+    "garage": "2 Cars",
+    "pool": "No Pool",
+    "built": 1982,
+    "desc": "4 Bed, 4 Bath , 2,262 sqft",
+    "img": "https://photos.zillowstatic.com/fp/192e550f08155d8e36ca8f6c9db09454-cc_ft_576.webp",
+
+    "address": "960 Leighs Brook Way, Dacula, GA 30019"
+  },
+  {
+    "category": "For Sale",
+
+    "type": "Single Family",
+    "price": 33500,
+    "persqrft": 185,
+    "garage": "1 Cars",
+    "pool": "Small Pool",
+    "built": 1969,
+    "desc": "3 Bed, 2 Bath , 1,810 sqft",
+    "img": "https://ap.rdcpix.com/145e63ce6b37d9cd6478404fc832bae4l-m219395650od-w480_h360_x2.webp",
+
+    "address": "1747 Landon Ave, Jacksonville, FL 32207"
+  },
+  {
+    "category": "For Sale",
+
+    "type": "Single Family",
+    "price": 455000,
+    "persqrft": 191,
+    "garage": "2 Cars",
+    "pool": "No Pool",
+    "built": 2017,
+    "desc": "3 Bed, 2 Bath , 2,378 sqft",
+    "img": "https://ap.rdcpix.com/064e1204aa560321d92e1bd618c99f9bl-m124080701od-w480_h360_x2.webp",
+
+    "address": "6619 Azalea Park Rd, Jacksonville, FL 32259"
+  },
+  {
+    "category": "For Sale",
+
+    "type": "Single Family",
+    "price": 315000,
+    "persqrft": 149,
+    "garage": "2 Cars",
+    "pool": "No Pool",
+    "built": 2004,
+    "desc": "4 Bed, 2 Bath , 2,110 sqft",
+    "img": "https://ap.rdcpix.com/5d8bfce497ed7506691b60055b97da0dl-m150160270od-w480_h360_x2.webp",
+
+    "address": "9361 Lockheed Ln, Jacksonville, FL 32221"
+  },
+  {
+    "category": "For Sale",
+
+    "type": "Single Family",
+    "price": 399900,
+    "persqrft": 265,
+    "garage": "2 Cars",
+    "pool": "No Pool",
+    "built": 2016,
+    "desc": "3 Bed, 2 Bath , 1510 sqft",
+    "img": "https://ap.rdcpix.com/c1aa9bc1406584d6aa853cf0f5026c13l-m4087304993od-w1024_h768_x2.webp",
+
+    "address": "7038 Crispin Cove Dr, Jacksonville, FL 32258"
+  },
+  {
+    "category": "For Sale",
+
+    "type": "Single Family",
+    "price": 511500,
+    "persqrft": 165,
+    "garage": "2 Cars",
+    "pool": "Pool - In Ground",
+    "built": 1992,
+    "desc": "4 Bed, 3 Bath , 3100 sqft",
+    "img": "https://ap.rdcpix.com/6db543f3d30e646619635694d31060e4l-m3331406592od-w480_h360_x2.webp",
+
+    "address": "4472 Charter Point Blvd, Jacksonville, FL 32277"
+  },
+  {
+    "category": "For Sale",
+
+    "type": "Single Family",
+    "price": 349900,
+    "persqrft": 247,
+    "garage": "2 Cars",
+    "pool": "No Pool",
+    "built": 1994,
+    "desc": "3 Bed, 2 Bath , 1414 sqft",
+    "img": "https://ap.rdcpix.com/3219fef385797fc49d66f31bce8739bel-m2207538289od-w1024_h768_x2.webp",
+
+    "address": "9593 Glenn Abbey Way, Jacksonville, FL 32256"
+  },
+  {
+    "category": "For Sale",
+
+    "type": "Single Family",
+    "price": 325000,
+    "persqrft": 248,
+    "garage": "2 Cars",
+    "pool": "No Pool",
+    "built": 1998,
+    "desc": "3 Bed, 2 Bath , 1310 sqft",
+    "img": "https://ap.rdcpix.com/0c9103a648759dd891081058aab7f954l-m222985535od-w480_h360_x2.webp",
+
+    "address": "9538 Thornaby Ln, Jacksonville, FL 32256"
+  },
+  {
+    "category": "For Sale",
+
+    "type": "Single Family",
+    "price": 499000,
+    "persqrft": 225,
+    "garage": "2 Cars",
+    "pool": "No Pool",
+    "built": 1988,
+    "desc": "4 Bed, 3 Bath , 2216 sqft",
+    "img": "https://ap.rdcpix.com/819a5b57d0a4cf3610b6165938411969l-m3271479633od-w480_h360_x2.webp",
+
+    "address": "1365 Blackhawk Trl W, Jacksonville, FL 32225"
+  },
+  {
+    "category": "For Sale",
+
+    "type": "Single Family",
+    "price": 400000,
+    "persqrft": 258,
+    "garage": "2 Cars",
+    "pool": "No Pool",
+    "built": 2002,
+    "desc": "3 Bed, 2 Bath , 1550 sqft",
+    "img": "https://ap.rdcpix.com/8a9c498e2dcb888083f037ade0532ecfl-m105127192od-w480_h360_x2.webp",
+
+    "address": "12238 Gehrig Dr, Jacksonville, FL 32224"
+  },
+  {
+    "category": "For Sale",
+
+    "type": "Townhome",
+    "price": 440000,
+    "persqrft": 209,
+    "garage": "2 Cars",
+    "pool": "No Pool",
+    "built": 2014,
+    "desc": "2 Bed, 2 Bath , 2130 sqft",
+    "img": "https://ap.rdcpix.com/52858637dfdc98c691c13a4d5fb0ca79l-m2036557670od-w480_h360_x2.webp",
+
+    "address": "14944 Venosa Cir, Jacksonville, FL 32258"
+  },
+  {
+    "category": "For Sale",
+
+    "type": "Townhome",
+    "price": 219000,
+    "persqrft": 157,
+    "garage": "1 Cars",
+    "pool": "No Pool",
+    "built": 2014,
+    "desc": "3 Bed, 2 Bath , 1404 sqft",
+    "img": "https://ap.rdcpix.com/5fed11cf2aa6787a18f7da069c4d40eal-m2601936747od-w480_h360_x2.webp",
+
+    "address": "1619 Landau Rd, Jacksonville, FL 32225"
+  }
+]
